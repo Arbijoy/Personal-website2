@@ -1,0 +1,91 @@
+body{
+    font-family: 'Abril Fatface', cursive;
+}
+.first-sec{
+    background-image: url(images3/header-bg.png);
+    width: 100%; 
+    background-repeat: no-repeat; 
+} 
+.first-div{
+    width: 37%;
+    float: left;
+    margin: 4%;
+    padding: 2%;
+}
+.first-div img {
+    width: 85%;
+    
+}
+h2{
+    font-size: 30px;
+    font-style: normal;
+    color: rgb(31, 204, 235);
+
+}
+h1{
+    color: hsl(155, 71%, 12%);
+    font-size: 45px;
+    font-style: initial;
+}
+ /* .first-div img{
+    width: 650px;  
+}    */
+a{
+    background-color:rgb(36, 36, 145);
+    color: white;
+    border-radius: 3px;
+    background-size: 50%;
+    padding-left: 8px ;
+    padding-right: 8px;
+}
+.last-div{
+     width: 25%;
+    float: left;
+     margin: 1%;
+    padding: 2%; 
+}
+.last-div img{
+    width: 100%;
+
+}
+ section{
+    height: 800px;
+    
+}
+.second-sec{
+    background-image: url(images3/biography-bg.png);
+    /* height: 100%; */
+    width: 100%;  
+    background-repeat: no-repeat; 
+}
+.thirt-sec{
+    background-image: url(images3/latest-work-bg.png);
+    /* height: 100%;*/
+    width: 100%;   
+    background-repeat: no-repeat;
+
+}
+.only-text{
+    text-align: center;
+    font-size: 20px;
+}
+#email{
+    background-color: rgb(241, 50, 50) ;
+    border-radius: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    
+}
+#latest{
+    text-align: center;
+    
+}
+.section{
+  margin-top: -20%;
+  height: 500px;
+}
+#footer{
+    background-color: darkslategray;
+    text-align: center;
+    padding: 10px;
+}
